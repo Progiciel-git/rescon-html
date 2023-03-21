@@ -1,0 +1,40 @@
+.nav{
+  border: 0.5px solid #ffffff;
+  text-align: center;
+  width:100%;
+  background-color: blue;
+  border-radius: 30px;
+}
+ul{
+  display: inline-flex;
+}
+
+li{
+  list-style-type:none;
+  clear:both;
+  padding:10px;
+  padding-right:30px;
+}
+
+a{
+  color: white;
+  border-radius: 25px;
+  border-style: none;
+  text-decoration: none;
+  background-color: blue;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+
+
+
+
+

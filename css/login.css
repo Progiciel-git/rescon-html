@@ -1,0 +1,36 @@
+form {
+  border: 3px  cyan;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  align-items: center;
+  background-color: blue;
+  color: white;
+  padding: 8px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 15px;
+  width: 200px;
+}
+
+button:hover {
+  opacity: 0.6;
+}
+
+span.psw {
+  float: inherit;
+  padding-top: 16px;
+}
+
